@@ -3,8 +3,10 @@ include "battlefields-iso-red"
 include "battlefields-maze-red"
 include "battlefields-p18-red"
 include "battlefields-pizza-red"
+
 include "battlefields-terrain-red"
 include "battlefields-terrain-p18-red"
+
 include "battlefields-wdgs"
 
 //include "battlefields-p18-test"
