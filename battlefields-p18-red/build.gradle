@@ -1,0 +1,5 @@
+dependencies {
+             
+        compile "com.github.RedTriplane.Battlefields:battlefields-p18-api:$BFsAPILevel"
+
+}
