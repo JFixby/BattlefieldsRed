@@ -1,5 +1,0 @@
-dependencies {
-             
-        compile "com.github.RedTriplane.Battlefields:battlefields-pizza-api:$BFsAPILevel"
-
-}
